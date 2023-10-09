@@ -1,4 +1,4 @@
-# 1st 
+# First
 import json
 
 class Employee:
@@ -75,7 +75,7 @@ json data
   ]
   """
 
-# 2nd
+# Second 
 import json
 
 indian_capitals = {
